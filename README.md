@@ -11,12 +11,12 @@ Code for this example is in the following two methods: 1) CaesarCipherEncode, an
 
 Instructions:
 
-Run the program in Xojo 2020 r2.1
-Enter your text in the Upper-Left TextArea Control
-Press Encrypt to use the Caesar Cipher Algorithm and the encoded text will appear in the control in the Upper-Right TextArea Control
-To decrypt the message, place the encoded message in the Lower-Left Control
-Press the Decrypt button
-The decrypted message will then appear in the Lower-Right Control
+ - Run the program in Xojo 2020 r2.1
+ - Enter your text in the Upper-Left TextArea Control
+ - Press Encrypt to use the Caesar Cipher Algorithm and the encoded text will appear in the control in the Upper-Right TextArea Control
+ - To decrypt the message, place the encoded message in the Lower-Left Control
+ - Press the Decrypt button
+ - The decrypted message will then appear in the Lower-Right Control
 
 The Methods can be copied and pasted to use in your program
 
