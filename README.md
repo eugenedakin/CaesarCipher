@@ -23,4 +23,4 @@ Instructions:
 
 The Methods can be copied and pasted to use in your program. This is written in native Xojo code.
 
-An article was written in xDev (xdevmag.com) Issue 19.3 (May/June 2021) that describes the Xojo code.
+An article was written in xDev (xdevmag.com) Issue 19.3 (May/June 2021) that describes the Xojo code. This is a great introduction to beginning a journey using ciphers, or also known as encoding/decoding data.
